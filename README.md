@@ -1,6 +1,6 @@
 # Hi, I'm Paras Parkash 👋
 
-**Quantitative Researcher | Derivatives Specialist | Risk Management Expert**
+**Quantitative Researcher | Derivatives & Risk Management  |**
 
 My work focuses on developing quantitative risk management models leveraging agentic AI that dynamically manage market risks and optimize portfolio protection, using derivatives combined with advanced volatility models like GARCH, Heston, and higher-order frameworks.
 
