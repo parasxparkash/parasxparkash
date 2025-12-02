@@ -25,9 +25,9 @@ I'm a quantitative researcher specializing in derivatives, risk management, and 
 ## Connect With Me
 
 - 📧 **Email**: [parasxparkash@gmail.com](mailto:parasxparkash@gmail.com)
-- 👔 **LinkedIn**: [parasparkash](https://linkedin.com/in/parasparkash)
-- 🐦 **Twitter**: [@parasxparkash](https://twitter.com/parasxparkash)
-- 🐙 **GitHub**: [parasparkash](https://github.com/parasparkash)
+- 👔 **LinkedIn**: [parasxparkash](https://linkedin.com/in/parasparkash)
+- 🐦 **Twitter**: [@parasparkash](https://twitter.com/parasxparkash)
+- 🐙 **GitHub**: [parasxparkash](https://github.com/parasparkash)
 - 📝 **Medium**: [/@parasparkash](https://medium.com/@parasparkash)
 - ✍️ **Substack**: [parasparkash.substack.com](https://parasparkash.substack.com)
 
